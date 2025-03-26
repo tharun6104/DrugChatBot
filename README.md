@@ -1,5 +1,5 @@
 # DrugChatBot
-# End-to-end-Medical-Chatbot-Generative-AI
+# Drug-Assistive-Chatbot-Generative-AI
 
 
 # How to run?
